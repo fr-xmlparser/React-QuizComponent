@@ -1,11 +1,6 @@
 import React, {Component} from 'react'
 
 class QuizQuesion extends Component {
-
-	constructor(props) {
-		super(props)
-	}
-
 	render(props) {
 		return (
 			<main>
@@ -20,7 +15,6 @@ class QuizQuesion extends Component {
 			</main>
 		)
 	}
-
 }
 
 export default QuizQuesion
